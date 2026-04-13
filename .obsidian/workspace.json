@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b29afc77a4e902f1",
+        "id": "dafdfa742d7e9a17",
         "type": "tabs",
         "children": [
           {
-            "id": "43c15022602be63b",
+            "id": "f5f4d3ab231d8cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagism.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Imagism"
+              "title": "Outline of README"
             }
           },
           {
@@ -194,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c15022602be63b",
+  "active": "921878ee73b1c861",
   "lastOpenFiles": [
     "Imagism.md",
+    "README.md",
     "Untitled 1.md",
     "index.html"
   ]

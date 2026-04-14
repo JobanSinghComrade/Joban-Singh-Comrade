@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Imagism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Imagism"
             }
           }
         ]
@@ -194,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "921878ee73b1c861",
+  "active": "f5f4d3ab231d8cf6",
   "lastOpenFiles": [
-    "Imagism.md",
     "README.md",
+    "Imagism.md",
+    "Indian-Classic/Chandogyopanishada.md",
+    "Untitled.md",
     "Untitled 1.md",
     "index.html"
   ]

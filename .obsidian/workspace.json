@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dummy.md",
+                "file": "Imagism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dummy"
+              "title": "Imagism"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Few Don'ts by an Imagist.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Few Don'ts by an Imagist"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2ba463663f57d1e",
+  "active": "4a193bca79902f83",
   "lastOpenFiles": [
+    "Imagism.md",
     "README.md",
     "A Few Don'ts by an Imagist.md",
-    "Untitled.md",
     "Imagism.md",
     "Indian-Classic/Chandogyopanishada.md",
     "Untitled 1.md",

@@ -21,20 +21,8 @@ Sentiments are produced from a combination of Determinants, Consequents and Tran
 
 There are 4 Original Sentiments from which all other Sentiments arise:
 
-```mermaid
-graph TD
-
-Erotic --> Comic --> LoveMode["Union in love and passion"]
-
-Heroic --> Marvelous --> EnergyMode["Energy, courage, and enthusiasm"]
-
-Furious --> Pathetic --> AngerMode["Anger, rage, fury, aggression"]
-
-Odious --> Terrible --> FearMode["Fear and anxiety"]
-```
-
 ### Categories and Dominant Emotions
-
+---
 #### 1. Erotic → Comic
 
 **Dominant Emotion:**  

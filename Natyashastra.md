@@ -13,7 +13,6 @@ Here are traditionally 8 ***Rasas*** such as:
 - Laughter (*Hāsya*)
 - Sadness (*Karuṇa*)
 
-
 In it, detailed aspects of of the theatrical science(*Natyaveda*), Sutras and their commentaries(*Bhashyas*) are compressed to make Digest(*Samgraha* or 'collection' in easy words). The Digest/collection includes the States(*Bhavas)* and the Sentiments(*Rasa*). 
 
 
@@ -49,6 +48,9 @@ Fear and anxiety
 ---
 
 Overall, the _Natyashastra_ serves as a comprehensive guidebook for the performing arts, blending theory with practice. Its influence continues to shape classical Indian dance and theatre traditions today, making it one of the most important works in the history of aesthetics and performance.
+
+---
+
 
 
 **NOTE:** Additionally, Digest also includes aspects like Histrionic representation(Gestures, Words, Dresses and Make-up), Practices(*Dharmas*), Styles of theatricality, Successes, Musical Notes and Instruments, etc.

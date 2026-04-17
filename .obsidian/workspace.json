@@ -11,15 +11,14 @@
             "id": "1ef1a3aef695f12c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Natyashastra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Natyashastra"
             }
           }
         ]
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ef1a3aef695f12c",
+  "active": "921878ee73b1c861",
   "lastOpenFiles": [
     "Natyashastra.md",
     "Imagism.md",

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6fbd5410ac706f",
+        "id": "3a4b7fe7f1b5253a",
         "type": "tabs",
         "children": [
           {
-            "id": "c2ba463663f57d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "33cff1e48249f6b6",
+            "id": "1ef1a3aef695f12c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Natyashastra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,17 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33cff1e48249f6b6",
+  "active": "1ef1a3aef695f12c",
   "lastOpenFiles": [
-    "README.md",
     "Natyashastra.md",
-    "The Red Wheelbarrow.md",
-    "Preludes.md",
-    "Oread.md",
-    "In a Station of the Metro.md",
     "Imagism.md",
-    "Untitled",
     "A Few Don'ts by an Imagist.md",
+    "Dummy.md",
+    "README.md",
     "Indian-Classic/Chandogyopanishada.md",
     "Untitled 1.md",
     "index.html"

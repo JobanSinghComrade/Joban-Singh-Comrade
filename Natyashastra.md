@@ -51,6 +51,4 @@ Overall, the _Natyashastra_ serves as a comprehensive guidebook for the performi
 
 ---
 
-
-
 **NOTE:** Additionally, Digest also includes aspects like Histrionic representation(Gestures, Words, Dresses and Make-up), Practices(*Dharmas*), Styles of theatricality, Successes, Musical Notes and Instruments, etc.

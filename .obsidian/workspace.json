@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4b7fe7f1b5253a",
+        "id": "1ccd05bda09752f4",
         "type": "tabs",
         "children": [
           {
-            "id": "1ef1a3aef695f12c",
+            "id": "0db571066948e764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Natyashastra.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Natyashastra"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "921878ee73b1c861",
+  "active": "0db571066948e764",
   "lastOpenFiles": [
+    "What is Art.md",
+    "The Six Seasons - Ritusamhara.md",
+    "Rig Veda's Creation and Burial Hymns.md",
+    "Natyashastra - The Sentiments.md",
+    "Chandogya Upanishad.md",
+    "Hotopadesha.md",
+    "Jataka Tales.md",
+    "Manimekhalai's Canto 1&2.md",
     "Natyashastra.md",
     "Imagism.md",
     "A Few Don'ts by an Imagist.md",
